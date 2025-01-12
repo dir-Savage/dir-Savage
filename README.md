@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Bashar999! 👋</h1>
+  <img src="https://gravatar.com/avatar/9cede5b079741ecc0fa41748a64f1547?s=400&d=robohash&r=x" width="150" alt="Bashar's Avatar" style="border-radius: 50%;" />
+  <h1>Hi there, I'm Bashar! 👋</h1>
   <p>🚀 Full-Stack Developer | 🎮 Gamer | ☕ Coffee Enthusiast</p>
   <p>Turning caffeine into code since 2020. 💻</p>
 </div>
@@ -8,7 +9,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://avatar.iran.liara.run">
+    <a href="https://discord.com/users/393449062407340044">
       <img align="center" src="https://lanyard-profile-readme.vercel.app/api/393449062407340044" width="100%" />
     </a>
   </p>
@@ -19,8 +20,8 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <p>
-    <img width="49.5%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HqNw&theme=radical&layout=compact&hide_border=true" alt="HqNw :: Top Langs by repo" />
-    <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=HqNw&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bashar&theme=radical&layout=compact&hide_border=true" alt="Bashar :: Top Langs by repo" />
+    <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar&show_icons=true&theme=radical&hide_border=true" />
   </p>
 </div>
 
@@ -29,7 +30,7 @@
 <div align="center">
   <h2>🔥 Streak Stats</h2>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HqNw&theme=radical&hide_border=true" alt="HqNw's Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bashar&theme=radical&hide_border=true" alt="Bashar's Streak Stats" />
   </p>
 </div>
 
@@ -69,7 +70,7 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.github.com/HqNw">
+    <a href="https://www.github.com/Bashar">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     &nbsp;&nbsp;
@@ -109,5 +110,5 @@
 <div align="center">
   <h2>🚀 Thanks for Visiting!</h2>
   <p>You're visitor number:</p>
-  <img src="https://profile-counter.glitch.me/HqNw/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Bashar/count.svg" alt="Visitor Count" />
 </div>
