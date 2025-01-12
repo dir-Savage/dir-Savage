@@ -10,8 +10,7 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <p>
-    <img width="49.5%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bashar&theme=dracula&layout=compact&hide_border=true" alt="Bashar :: Top Langs by repo" />
-    <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar&show_icons=true&theme=blue-green&hide_border=true"/>
   </p>
 </div>
 
@@ -20,7 +19,7 @@
 <div align="center">
   <h2>🔥 Streak Stats</h2>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bashar&theme=dracula&hide_border=true" alt="Bashar's Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bashar&theme=blue-green&hide_border=true" alt="Bashar's Streak Stats" />
   </p>
 </div>
 
@@ -68,13 +67,6 @@
       <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
     </a>
   </p>
-</div>
-
----
-
-<div align="center">
-  <h2>😂 Fun Fact</h2>
-  <p>I once spent 3 hours debugging only to realize I forgot to save the file. 🥲</p>
 </div>
 
 ---
