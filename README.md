@@ -1,19 +1,12 @@
 <div align="center">
   <img src="https://gravatar.com/avatar/9cede5b079741ecc0fa41748a64f1547?s=400&d=robohash&r=x" width="150" alt="Bashar's Avatar" style="border-radius: 50%;" />
-  <h1>Hi there, I'm Bashar! 👋</h1>
-  <p>🚀 Full-Stack Developer | 🎮 Gamer | ☕ Coffee Enthusiast</p>
-  <p>Turning caffeine into code since 2020. 💻</p>
+  <h1>Welcome to my Github profile 👋</h1>
+  <p>🚀 Full-Stack Developer | ☕ Coffee Enthusiast</p>
+  <p>Turning caffeine into code since 2020 . 💻</p>
 </div>
 
 ---
 
-<div align="center">
-  <p align="center">
-    <a href="https://discord.com/users/393449062407340044">
-      <img align="center" src="https://lanyard-profile-readme.vercel.app/api/393449062407340044" width="100%" />
-    </a>
-  </p>
-</div>
 
 ---
 
