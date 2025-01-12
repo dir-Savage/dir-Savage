@@ -8,7 +8,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://discord.com/users/393449062407340044">
+    <a href="https://avatar.iran.liara.run">
       <img align="center" src="https://lanyard-profile-readme.vercel.app/api/393449062407340044" width="100%" />
     </a>
   </p>
