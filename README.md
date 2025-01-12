@@ -23,6 +23,13 @@
   </p>
 </div>
 
+<div align="center">
+  <p>
+    <em>"The best error message is the one that never shows up."</em> – Thomas Fuchs
+  </p>
+</div>
+
+
 ---
 
 <div align="center">
@@ -71,12 +78,6 @@
 
 ---
 
-<div align="center">
-  <h2>💬 Quote of the Day</h2>
-  <p>
-    <em>"The best error message is the one that never shows up."</em> – Thomas Fuchs
-  </p>
-</div>
 
 ---
 
