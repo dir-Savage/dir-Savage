@@ -49,10 +49,9 @@
 <div align="center">
   <h2>📫 Let's Connect!</h2>
   <p>
-    <a href="https://discord.com/users/393449062407340044">
+    <a href="https://discord.gg/6suMYwmx">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://www.github.com/Bashar">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
