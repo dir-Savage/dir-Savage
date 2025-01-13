@@ -29,7 +29,6 @@
   </p>
 </div>
 
-
 ---
 
 <div align="center">
@@ -43,7 +42,6 @@
   </p>
 </div>
 
-
 ---
 
 <div align="center">
@@ -52,8 +50,9 @@
     <a href="https://discord.gg/6suMYwmx">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://www.github.com/Bashar">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    &nbsp;&nbsp;
+    <a href="https://mostaql.com/u/basharr_1/portfolio">
+      <img src="https://img.shields.io/badge/Mostaql-00B4FF?style=for-the-badge&logo=freelancer&logoColor=white" alt="Mostaql Portfolio" />
     </a>
   </p>
 </div>
