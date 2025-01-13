@@ -50,10 +50,7 @@
   </p>
 </div>
 
----
-
 <div align="center">
-  <h2>🚀 Thanks for Visiting!</h2>
   <p>You're visitor number:</p>
   <img src="https://profile-counter.glitch.me/Bashar/count.svg" alt="Visitor Count" />
 </div>
