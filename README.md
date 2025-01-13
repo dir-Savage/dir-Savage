@@ -20,8 +20,7 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img width="49.5%" align="center" src="https://media1.tenor.com/m/Cf41caDGMeYAAAAC/andrew-tate.gif" , width = "200"px/>
-  </div>
+<img width="150" height="150" align="center" src="https://media1.tenor.com/m/Cf41caDGMeYAAAAC/andrew-tate.gif" alt="Andrew Tate GIF" />  </div>
 </div>
 
 
