@@ -19,21 +19,6 @@
 ---
 
 <div align="center">
-  <h2>🔥 Streak Stats</h2>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bashar&theme=blue-green&hide_border=true" alt="Bashar's Streak Stats" />
-  </p>
-</div>
-
-<div align="center">
-  <p>
-    <em>"The best error message is the one that never shows up."</em> – Thomas Fuchs
-  </p>
-</div>
-
----
-
-<div align="center">
   <h2>💻 My Tech Stack</h2>
   <p>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
