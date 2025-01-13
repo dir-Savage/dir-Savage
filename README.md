@@ -3,7 +3,7 @@
   <h1>Welcome to my GitHub profile! 👋</h1>
   <p>🚀 Flutter Mobile Developer | 💻 Frontend Wizard (React) | ☕ Coffee Enthusiast</p>
   <p>Building beautiful, cross-platform apps with Flutter and crafting stunning UIs with React. 💙</p>
-  <img src="https://cdn-icons-gif.flaticon.com/12417/12417392.gif" width="100" alt="Coding GIF" style="border-radius: 20px;" />
+  <img src="https://cdn-icons-gif.flaticon.com/12417/12417392.gif" width="100" alt="Coding GIF" style="border-radius: 50%;" />
 </div>
 
 ---
