@@ -1,7 +1,6 @@
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img src="https://gravatar.com/avatar/9cede5b079741ecc0fa41748a64f1547?s=400&d=robohash&r=x" width="150" alt="Bashar's Avatar" style="border-radius: 50%;" />
-    <img src="https://cdn-icons-gif.flaticon.com/12417/12417392.gif" width="100" alt="Coding GIF" style="border-radius: 50%;" />
   </div>
   <h1>Welcome to my GitHub profile! 👋</h1>
   <p>🚀 Flutter Mobile Developer | 💻 Frontend Wizard (React) | ☕ Coffee Enthusiast</p>
