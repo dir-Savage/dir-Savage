@@ -16,6 +16,15 @@
   </div>
 </div>
 
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img width="49.5%" align="center" src="https://media1.tenor.com/m/PUjUiyvONEAAAAAd/burn-in-hell-elmo.gif"/>
+  </div>
+</div>
+
+
 ---
 
 <div align="center">
