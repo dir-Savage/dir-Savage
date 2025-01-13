@@ -3,6 +3,7 @@
   <h1>Welcome to my GitHub profile! 👋</h1>
   <p>🚀 Flutter Mobile Developer | 💻 Frontend Wizard (React) | ☕ Coffee Enthusiast</p>
   <p>Building beautiful, cross-platform apps with Flutter and crafting stunning UIs with React. 💙</p>
+  <img src="https://cdn-icons-gif.flaticon.com/12417/12417392.gif" width="100" alt="Coding GIF" style="border-radius: 20px;" />
 </div>
 
 ---
@@ -11,7 +12,6 @@
   <h2>📊 GitHub Stats</h2>
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar&show_icons=true&theme=blue-green&hide_border=true"/>
-    <img src="https://cdn-icons-gif.flaticon.com/12417/12417392.gif" width="100" alt="Coding GIF" style="border-radius: 20px;" />
   </div>
 </div>
 
