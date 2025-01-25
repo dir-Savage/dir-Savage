@@ -41,7 +41,7 @@
 <div align="center">
   <h2>📫 Let's Connect!</h2>
   <p>
-    <a href="https://discord.MYwmx">
+    <a href="https://discord.gg/4VcDy799">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
     &nbsp;&nbsp;
