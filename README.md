@@ -39,6 +39,25 @@
 
 ---
 
+<!-- ### ⚡ Stats  -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EpicFailure-afk&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EpicFailure-afk&theme=tokyonight" width="48%">
+</p>
+-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EpicFailure-afk&layout=compact&theme=tokyonight" width="48%">
+</p>
+
+---
+<!--
+### 🏆 Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EpicFailure-afk&theme=darkhub&no-frame=true&column=4" />
+</p>
+-->
+
 <div align="center">
   <h2>📫 Let's Connect!</h2>
   <p>
