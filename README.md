@@ -12,8 +12,8 @@
 ### ⚡ Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EpicFailure-afk&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EpicFailure-afk&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=dir_Savage&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dir-Savage&theme=tokyonight" width="48%">
 </p>
 
 
