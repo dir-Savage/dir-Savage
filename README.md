@@ -9,12 +9,24 @@
 
 ---
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar&show_icons=true&theme=blue-green&hide_border=true"/>
-  </div>
-</div>
+<!-- ### ⚡ Stats  -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EpicFailure-afk&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EpicFailure-afk&theme=tokyonight" width="48%">
+</p>
+-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dir-Savage&layout=compact&theme=tokyonight" width="48%">
+</p>
+
+---
+<!--
+### 🏆 Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EpicFailure-afk&theme=darkhub&no-frame=true&column=4" />
+</p>
+-->
 
 ---
 
@@ -39,24 +51,6 @@
 
 ---
 
-<!-- ### ⚡ Stats  -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EpicFailure-afk&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EpicFailure-afk&theme=tokyonight" width="48%">
-</p>
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dir-Savage&layout=compact&theme=tokyonight" width="48%">
-</p>
-
----
-<!--
-### 🏆 Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EpicFailure-afk&theme=darkhub&no-frame=true&column=4" />
-</p>
--->
 
 <div align="center">
   <h2>📫 Let's Connect!</h2>
