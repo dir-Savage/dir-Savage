@@ -24,7 +24,7 @@
 
 ### 🏆 Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EpicFailure-afk&theme=darkhub&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dir-Savage&theme=darkhub&no-frame=true&column=4" />
 </p>
 
 
