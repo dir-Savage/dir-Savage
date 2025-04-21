@@ -47,7 +47,7 @@
 </p>
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EpicFailure-afk&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dir-Savage&layout=compact&theme=tokyonight" width="48%">
 </p>
 
 ---
