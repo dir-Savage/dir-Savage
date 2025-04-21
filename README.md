@@ -22,11 +22,6 @@
 </p>
 
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-<img width="210" height="210" align="center" src="https://i.pinimg.com/736x/38/60/05/3860051bef30924d94c9a0f3ec1ffe35.jpg" alt="Andrew Tate GIF" />  </div>
-</div>
-
 
 ---
 
