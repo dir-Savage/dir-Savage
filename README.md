@@ -19,7 +19,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-<img width="210" height="210" align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4FeWr4OsidcJClBjUEBHWI&psig=AOvVaw1eFtGjIRAzo4xaDYUlsEeb&ust=1745362061975000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCxu8-a6owDFQAAAAAdAAAAABAE" alt="Andrew Tate GIF" />  </div>
+<img width="210" height="210" align="center" src="https://i.pinimg.com/736x/38/60/05/3860051bef30924d94c9a0f3ec1ffe35.jpg" alt="Andrew Tate GIF" />  </div>
 </div>
 
 
