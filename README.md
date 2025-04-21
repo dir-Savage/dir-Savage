@@ -21,14 +21,13 @@
 </p>
 
 ---
-<!--
+
 ### 🏆 Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EpicFailure-afk&theme=darkhub&no-frame=true&column=4" />
 </p>
--->
 
----
+
 
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
