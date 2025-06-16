@@ -1,6 +1,6 @@
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="https://i.pinimg.com/736x/0e/fd/59/0efd5967f398e8f29886712a4c09ac72.jpg" width="220" alt="Bashar's Avatar" style="border-radius: 50%;" />
+    <img src="https://i.pinimg.com/736x/c7/40/b0/c740b0fffab90d742c4b938943271654.jpg" width="220" alt="Bashar's Avatar" style="border-radius: 50%;" />
   </div>
   <h1>Welcome to my GitHub profile! 👋</h1>
   <p>🚀 Flutter Mobile Developer | 💻 Frontend Wizard (React) | ☕ Coffee Enthusiast</p>
